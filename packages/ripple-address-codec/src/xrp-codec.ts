@@ -15,7 +15,7 @@ class Codec {
     this._sha256 = options.sha256
     this._codec = base58xrp
   }
-
+// hello world
   /**
    * Encoder.
    *
